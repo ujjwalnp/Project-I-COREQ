@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:cosmicgz/COREQ.git
+[submodule "server"]
+	path = server
+	url = git@github.com:ujjwalnp/coreq-backend.git
